@@ -5,7 +5,7 @@ export const siteConfig: SiteConfig = {
 	// Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
 	author: 'CocoLee',
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
-	title: 'astro-blog',
+	title: 'coco-study-blog',
 	// Meta property used as the default description meta property
 	description: 'The tech blog of coco',
 	// HTML lang property, found in src/layouts/Base.astro L:18
