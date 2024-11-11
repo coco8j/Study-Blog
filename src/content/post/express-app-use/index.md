@@ -1,6 +1,6 @@
 ---
-title: 'Express의 App.use가 경로와 미들웨어를 구별하는 법'
-description: 'app.use가 어떻게 동작하는지 소스코드와 함께 살펴봅니다.'
+title: 'Express의 App.use 동작을 소스코드와 함께 이해하기'
+description: 'app.use는 어떤 동작이길래 미들웨어 처리도 하고 라우팅처리도 할까요?.'
 publishDate: '12 Jul 2024'
 tags: ['JavaScript', 'Node.js', 'Express']
 ---
