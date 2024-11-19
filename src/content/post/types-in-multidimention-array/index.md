@@ -1,5 +1,5 @@
 ---
-title: 'Array(n).fill()로 만든 2차 배열 타입이 any[][]가 되는 현상 해결하기'
+title: 'Array(n).fill()로 만든 2차 배열 타입이 any[]가 되는 현상 해결하기'
 description: 'Array 생성자 함수와 fill 메서드를 사용해 채워 넣은 다차배열에서 타입이 유지되지 않는 현상을 해결해봅시다!'
 publishDate: '16 Nov 2024'
 tags: ['TypeScript']
@@ -48,7 +48,7 @@ fill(value: T, start?: number, end?: number): this;
 
 여기서 중요한 점은 fill()이 반환 타입을 this로 설정하고 있다는 점입니다.
 
-<u>즉, 배열의 기존 타입을 그대로 유지하므로, 기본 타입이 any[]라면 fill() 호출 후에도 여전히 any[] 타입으로 유지됩니다.</u>
+_즉, 배열의 기존 타입을 그대로 유지하므로, 기본 타입이 any[]라면 fill() 호출 후에도 여전히 any[] 타입으로 유지됩니다._
 
 **결론적으로,**
 
