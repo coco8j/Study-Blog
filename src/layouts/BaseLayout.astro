@@ -20,9 +20,9 @@ const {
 <html lang={siteConfig.lang} class=''>
 	<head>
 		<!-- Google tag (gtag.js) -->
-		<script async src='https://www.googletagmanager.com/gtag/js?id=G-NFXHZF87DC'></script>
-		<script>
-			//@ts-ignore
+		<script is:inline async src='https://www.googletagmanager.com/gtag/js?id=G-NFXHZF87DC'></script>
+		<script is:inline>
+			// @ts-ignore
 			window.dataLayer = window.dataLayer || []
 			function gtag() {
 				dataLayer.push(arguments)
@@ -100,7 +100,7 @@ const {
 				}
 			})(document, window.mixpanel || [])
 		</script>
-		<script>
+		<script is:inline>
 			// Near entry of your product, init Mixpanel
 			mixpanel.init('db5b29f65f196a79c32c2955f01e08f5', {
 				debug: true,
@@ -108,7 +108,6 @@ const {
 				persistence: 'localStorage'
 			})
 		</script>
-
 		<BaseHead articleDate={articleDate} description={description} ogImage={ogImage} title={title} />
 	</head>
 
