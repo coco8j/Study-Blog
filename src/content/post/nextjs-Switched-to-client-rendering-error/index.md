@@ -6,6 +6,7 @@ coverImage:
   src: 'cover.png'
   alt: 'Nextjs post wallpaper'
 tags: ['NextJS', 'React', 'Hook', 'fetch', 'server side component', 'client side component']
+ogImage: '/images/next-cover.png'
 ---
 
 > ✅ 작성기준: Spec Check

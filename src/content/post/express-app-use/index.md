@@ -3,6 +3,7 @@ title: 'Express의 App.use 동작을 소스코드와 함께 이해하기'
 description: 'app.use는 어떤 동작이길래 미들웨어 처리도 하고 라우팅처리도 할까요?.'
 publishDate: '12 Jul 2024'
 tags: ['JavaScript', 'Node.js', 'Express']
+ogImage: '/images/default.png'
 ---
 
 # Intro

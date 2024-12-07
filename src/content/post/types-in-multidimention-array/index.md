@@ -3,6 +3,7 @@ title: 'Array(n).fill()로 만든 2차 배열 타입이 any[]가 되는 현상 �
 description: 'Array 생성자 함수와 fill 메서드를 사용해 채워 넣은 다차배열에서 타입이 유지되지 않는 현상을 해결해봅시다!'
 publishDate: '16 Nov 2024'
 tags: ['TypeScript']
+ogImage: '/images/default.png'
 ---
 
 ## **문제를 만나다: any[]로 타입이 결정되는 상황**

@@ -6,6 +6,7 @@ coverImage:
   src: 'cover.png'
   alt: 'React post wallpaper'
 tags: ['JavaScript', 'React', 'Hook', 'function', 'utils']
+ogImage: '/images/react-cover.png'
 ---
 
 <!-- # React hook 과 유틸 함수의 차이 -->
