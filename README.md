@@ -4,7 +4,7 @@
 
 지식 공유의 목적으로 작성되었기 때문에 다양한 의견과 또 새로운 지식에 관한 이야기를 환영합니다!
 
-블로그에 방문하려면 👉 [**https://your-blog-url.com**](https://www.coco-study.site/)
+블로그에 방문하려면 👉 [**https://www.coco-study.site**](https://www.coco-study.site/)
 
 
 ## 🌟 소개
